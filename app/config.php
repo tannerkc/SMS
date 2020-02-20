@@ -12,8 +12,8 @@ if(!$con){
 
 return $config = [
 
-    'account_sid'=> 'AC5d953904dffb7dc824532ece52c5b450',
-    'auth_token'=> '75d27672f8fe5bf0512ade6e3097c2cc',
+    'account_sid'=> 'ID',
+    'auth_token'=> 'Token',
     'phone_number'=> '+19518214609'
 
 ];
