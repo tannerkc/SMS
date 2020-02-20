@@ -93,8 +93,8 @@ class Client {
     const ENV_ACCOUNT_SID = "TWILIO_ACCOUNT_SID";
     const ENV_AUTH_TOKEN = "TWILIO_AUTH_TOKEN";
 
-    protected $username="AC5d953904dffb7dc824532ece52c5b450";
-    protected $password="75d27672f8fe5bf0512ade6e3097c2cc";
+    protected $username;
+    protected $password;
     protected $accountSid;
     protected $region;
     protected $httpClient;
